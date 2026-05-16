@@ -1,5 +1,5 @@
 ## Hi there 👋
-The implementation code in this organisation is written mostly by me [@andreibelov](https://github.com/andreibelov), and also peers from 42network.
+The implementation code in this organisation is written mostly by me [@andreibelov](https://github.com/andreibelov) as well as by peers from 42network.
 
 <!--
 
